@@ -239,7 +239,7 @@ public class CircleProgressView extends View {
 
 
     /**
-     * 设置进度圆圆弧范围(0,360]
+     * 设置进度圆圆弧范围(180,360]
      *
      * @param angle
      */
